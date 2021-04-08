@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-02T06:46:37.663Z</updated>
+  <updated>2021-04-08T10:21:57.720Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于投资(invest)入门</title>
+    <link href="http://example.com/2021/04/08/%E5%85%B3%E4%BA%8E%E6%8A%95%E8%B5%84(invest)%E5%85%A5%E9%97%A8/"/>
+    <id>http://example.com/2021/04/08/%E5%85%B3%E4%BA%8E%E6%8A%95%E8%B5%84(invest)%E5%85%A5%E9%97%A8/</id>
+    <published>2021-04-08T10:20:31.000Z</published>
+    <updated>2021-04-08T10:21:57.720Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>周刊-2021第15周</title>
+    <link href="http://example.com/2021/04/06/%E5%91%A8%E5%88%8A-2021%E7%AC%AC15%E5%91%A8/"/>
+    <id>http://example.com/2021/04/06/%E5%91%A8%E5%88%8A-2021%E7%AC%AC15%E5%91%A8/</id>
+    <published>2021-04-06T05:36:19.000Z</published>
+    <updated>2021-04-06T05:42:54.752Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="天才"><a href="#天才" class="headerlink" title="天才"></a>天才</h2><p>21世纪的天才都在忙什么?<br>忙着做天才,吸引更多人点击广告和研究如何科学的与百合科多年生草本植物玩大富翁</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;天才&quot;&gt;&lt;a href=&quot;#天才&quot; class=&quot;headerlink&quot; title=&quot;天才&quot;&gt;&lt;/a&gt;天才&lt;/h2&gt;&lt;p&gt;21世纪的天才都在忙什么?&lt;br&gt;忙着做天才,吸引更多人点击广告和研究如何科学的与百合科多年生草本植物玩大富翁&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>平时我获取信息的渠道</title>
     <link href="http://example.com/2021/04/02/%E5%B9%B3%E6%97%B6%E6%88%91%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF%E7%9A%84%E6%B8%A0%E9%81%93(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0)/"/>
     <id>http://example.com/2021/04/02/%E5%B9%B3%E6%97%B6%E6%88%91%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF%E7%9A%84%E6%B8%A0%E9%81%93(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0)/</id>
     <published>2021-04-02T06:46:37.000Z</published>
-    <updated>2021-04-02T06:46:37.663Z</updated>
+    <updated>2021-04-02T06:53:03.788Z</updated>
     
     
     
@@ -34,14 +68,14 @@
     <link href="http://example.com/2021/04/02/%E5%85%B3%E4%BA%8E%E6%88%91%E5%AF%B9%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E4%B8%8E%E5%BC%80%E6%BA%90%E7%9A%84%E7%9C%8B%E6%B3%95/"/>
     <id>http://example.com/2021/04/02/%E5%85%B3%E4%BA%8E%E6%88%91%E5%AF%B9%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E4%B8%8E%E5%BC%80%E6%BA%90%E7%9A%84%E7%9C%8B%E6%B3%95/</id>
     <published>2021-04-02T06:44:59.000Z</published>
-    <updated>2021-04-02T06:52:46.140Z</updated>
+    <updated>2021-04-08T10:13:19.604Z</updated>
     
-    <content type="html"><![CDATA[<p>标题可能具有误导性<br>我只想表达一个观点<br>我认为任何事物可以可以无条件再利用,我可能会完整复制整篇具有某种协议的文章或软件,随意修改再发布,可能投入商用,这些东西不属于任何人</p>]]></content>
+    <content type="html"><![CDATA[<p>标题可能具有误导性<br>我只想表达一个观点<br>我认为任何事物可以可以无条件再利用,我可能会完整复制整篇具有某种协议的文章或软件,随意修改再发布,投入商用,任何事物不属于任何人<br>所谓的协议</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;标题可能具有误导性&lt;br&gt;我只想表达一个观点&lt;br&gt;我认为任何事物可以可以无条件再利用,我可能会完整复制整篇具有某种协议的文章或软件,随意修改再发布,可能投入商用,这些东西不属于任何人&lt;/p&gt;
+    <summary type="html">&lt;p&gt;标题可能具有误导性&lt;br&gt;我只想表达一个观点&lt;br&gt;我认为任何事物可以可以无条件再利用,我可能会完整复制整篇具有某种协议的文章或软件,随意修改再发布,投入商用,任何事物不属于任何人&lt;br&gt;所谓的协议&lt;/p&gt;
 </summary>
       
     
@@ -55,14 +89,14 @@
     <link href="http://example.com/2021/04/02/%E5%91%A8%E5%88%8A-2021%E7%AC%AC14%E5%91%A8/"/>
     <id>http://example.com/2021/04/02/%E5%91%A8%E5%88%8A-2021%E7%AC%AC14%E5%91%A8/</id>
     <published>2021-04-02T06:35:59.000Z</published>
-    <updated>2021-04-02T06:39:50.427Z</updated>
+    <updated>2021-04-03T02:57:58.065Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="国家金融与发展实验室"><a href="#国家金融与发展实验室" class="headerlink" title="国家金融与发展实验室"></a><a href="http://www.nifd.cn/">国家金融与发展实验室</a></h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="国家金融与发展实验室"><a href="#国家金融与发展实验室" class="headerlink" title="国家金融与发展实验室"></a><a href="http://www.nifd.cn/">国家金融与发展实验室</a></h2><p>内容质量总体来说比一般的财经社交媒体高了不少</p><h2 id="平时我获取信息的渠道-持续更新"><a href="#平时我获取信息的渠道-持续更新" class="headerlink" title="平时我获取信息的渠道(持续更新)"></a><a href="http://www.guoogaii.com/2021/04/02//">平时我获取信息的渠道(持续更新)</a></h2><h2 id="关于我对言论自由与开源的看法"><a href="#关于我对言论自由与开源的看法" class="headerlink" title="关于我对言论自由与开源的看法"></a><a href="http://www.guoogaii.com/2021/04/02/%E5%85%B3%E4%BA%8E%E6%88%91%E5%AF%B9%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E4%B8%8E%E5%BC%80%E6%BA%90%E7%9A%84%E7%9C%8B%E6%B3%95/">关于我对言论自由与开源的看法</a></h2><h2 id="基本操作"><a href="#基本操作" class="headerlink" title="基本操作"></a><a href="https://jibencaozuo.com/">基本操作</a></h2><p>优秀的<strong>可交互</strong>视频,用更好的方式教会你,目标是让你更好的理解世界</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;国家金融与发展实验室&quot;&gt;&lt;a href=&quot;#国家金融与发展实验室&quot; class=&quot;headerlink&quot; title=&quot;国家金融与发展实验室&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.nifd.cn/&quot;&gt;国家金融与发展实验室&lt;/a&gt;&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;国家金融与发展实验室&quot;&gt;&lt;a href=&quot;#国家金融与发展实验室&quot; class=&quot;headerlink&quot; title=&quot;国家金融与发展实验室&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.nifd.cn/&quot;&gt;国家金融与发展实验室&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;内容质量</summary>
       
     
     
@@ -120,9 +154,9 @@
     <link href="http://example.com/2021/03/11/%E5%91%A8%E5%88%8A-2021%E7%AC%AC11%E5%91%A8/"/>
     <id>http://example.com/2021/03/11/%E5%91%A8%E5%88%8A-2021%E7%AC%AC11%E5%91%A8/</id>
     <published>2021-03-10T17:13:54.000Z</published>
-    <updated>2021-03-27T14:31:18.950Z</updated>
+    <updated>2021-04-03T03:00:01.041Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="学院派Academia"><a href="#学院派Academia" class="headerlink" title="学院派Academia"></a><a href="https://space.bilibili.com/96639395/">学院派Academia</a></h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="学院派Academia"><a href="#学院派Academia" class="headerlink" title="学院派Academia"></a><a href="https://space.bilibili.com/96639395/">学院派Academia</a></h2><p>难得的能在通俗视频网站把学术内容和日常内容结合的很好的内容创作者,<strong>听得懂</strong></p>]]></content>
     
     
       
@@ -161,9 +195,9 @@
     <link href="http://example.com/2021/02/23/%E5%91%A8%E5%88%8A-2021%E7%AC%AC9%E5%91%A8/"/>
     <id>http://example.com/2021/02/23/%E5%91%A8%E5%88%8A-2021%E7%AC%AC9%E5%91%A8/</id>
     <published>2021-02-22T17:15:21.000Z</published>
-    <updated>2021-03-27T14:31:46.934Z</updated>
+    <updated>2021-04-03T03:02:22.604Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="好奇心日报"><a href="#好奇心日报" class="headerlink" title="好奇心日报"></a><a href="http://www.qdaily.com/">好奇心日报</a></h2><p>已停止更新</p><h2 id="小鸟文学"><a href="#小鸟文学" class="headerlink" title="小鸟文学"></a>小鸟文学</h2><h2 id="中国三明治"><a href="#中国三明治" class="headerlink" title="中国三明治"></a><a href="http://www.china30s.com/">中国三明治</a></h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="好奇心日报"><a href="#好奇心日报" class="headerlink" title="好奇心日报"></a><a href="http://www.qdaily.com/">好奇心日报</a></h2><p>已停止更新</p><h2 id="小鸟文学"><a href="#小鸟文学" class="headerlink" title="小鸟文学"></a>小鸟文学</h2><p>难得的文学类聚合平台,订阅制,按年收费</p><h2 id="中国三明治"><a href="#中国三明治" class="headerlink" title="中国三明治"></a><a href="http://www.china30s.com/">中国三明治</a></h2>]]></content>
     
     
       
@@ -203,9 +237,9 @@
     <link href="http://example.com/2021/02/12/%E5%91%A8%E5%88%8A_2021%E7%AC%AC7%E5%91%A8/"/>
     <id>http://example.com/2021/02/12/%E5%91%A8%E5%88%8A_2021%E7%AC%AC7%E5%91%A8/</id>
     <published>2021-02-12T07:02:51.000Z</published>
-    <updated>2021-03-27T14:29:57.704Z</updated>
+    <updated>2021-04-03T02:51:16.925Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="使用GitHub-Page-Hexo博客框架-Next主题搭建Blog"><a href="#使用GitHub-Page-Hexo博客框架-Next主题搭建Blog" class="headerlink" title="使用GitHub Page+Hexo博客框架+Next主题搭建Blog"></a><a href="(http://www.guoogaii.com/2021/02/06/%E4%BD%BF%E7%94%A8GitHub%20Page+Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6+Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/)">使用GitHub Page+Hexo博客框架+Next主题搭建Blog</a></h2><p>如题,我自己写的教程</p><h2 id="Fantasy-Map-Generator"><a href="#Fantasy-Map-Generator" class="headerlink" title="Fantasy Map Generator"></a>Fantasy Map Generator</h2><p>地图生成器<br><a href="https://azgaar.github.io/Fantasy-Map-Generator/">在线预览</a><br><a href="https://github.com/Azgaar/Fantasy-Map-Generator">项目地址</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="使用GitHub-Page-Hexo博客框架-Next主题搭建Blog"><a href="#使用GitHub-Page-Hexo博客框架-Next主题搭建Blog" class="headerlink" title="使用GitHub Page+Hexo博客框架+Next主题搭建Blog"></a><a href="(http://www.guoogaii.com/2021/02/06/%E4%BD%BF%E7%94%A8GitHub%20Page+Hexo%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6+Next%E4%B8%BB%E9%A2%98%E6%90%AD%E5%BB%BABlog%E8%AE%B0%E5%BD%95/)">使用GitHub Page+Hexo博客框架+Next主题搭建Blog</a></h2><h2 id="Fantasy-Map-Generator"><a href="#Fantasy-Map-Generator" class="headerlink" title="Fantasy Map Generator"></a>Fantasy Map Generator</h2><p>地图生成器<br><a href="https://azgaar.github.io/Fantasy-Map-Generator/">在线预览</a><br><a href="https://github.com/Azgaar/Fantasy-Map-Generator">项目地址</a></p>]]></content>
     
     
       
@@ -223,9 +257,9 @@
     <link href="http://example.com/2021/02/12/Blog%E6%8C%87%E5%8C%97/"/>
     <id>http://example.com/2021/02/12/Blog%E6%8C%87%E5%8C%97/</id>
     <published>2021-02-12T06:27:08.000Z</published>
-    <updated>2021-04-02T06:40:41.100Z</updated>
+    <updated>2021-04-06T05:37:37.948Z</updated>
     
-    <content type="html"><![CDATA[<p>在没有任何推广的前提下,本Blog应该是没有人会注意到,所以以下言论皆为本人的自言自语<br>我想发表的文字都会放上来,同时所有文章可能在任何时候进行删除修改等操作<br>文章排序应该会很乱,今后可能会整理</p><h2 id="周刊"><a href="#周刊" class="headerlink" title="周刊"></a>周刊</h2><p>灵感来自<a href="http://www.ruanyifeng.com/blog/">阮一峰的科技爱好者周刊</a>,什么都写,主观且极端,随时准备断更</p><h2 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h2><p>想要写小说,但是迟迟没有写</p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>信息的重构再聚合</p><h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><p>什么都写</p><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><p>单纯的流水账</p>]]></content>
+    <content type="html"><![CDATA[<p>在没有任何推广的前提下,本Blog应该是没有人会注意到,所以以下言论皆为本人的自言自语<br>我想发表的文字都会放上来,同时所有文章可能在任何时候进行删除修改等操作<br>文章排序应该会很乱,今后可能会整理</p><h2 id="周刊"><a href="#周刊" class="headerlink" title="周刊"></a>周刊</h2><p>灵感来自<a href="http://www.ruanyifeng.com/blog/">阮一峰的科技爱好者周刊</a>,什么都写,主观且极端,随时准备断更</p><h2 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h2><p>想要写小说,可能永远不会动笔</p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>网上信息的重构再聚合</p><h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><p>胡言乱语,什么都写</p><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><p>单纯的流水账</p>]]></content>
     
     
       
