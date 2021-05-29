@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-01T12:10:35.364Z</updated>
+  <updated>2021-05-29T05:51:02.934Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2021/05/29/test/"/>
+    <id>http://example.com/2021/05/29/test/</id>
+    <published>2021-05-29T05:50:15.000Z</published>
+    <updated>2021-05-29T05:51:02.934Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://cdn.lbryplayer.xyz/api/v4/streams/free/%E4%BC%81%E9%B9%85%E5%85%AC%E8%B7%AF---%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/3482c2185ea22808d34e36a53ea2e7b243312061/163cc8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我为什么要写Blog</title>
+    <link href="http://example.com/2021/05/03/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99Blog/"/>
+    <id>http://example.com/2021/05/03/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99Blog/</id>
+    <published>2021-05-03T06:59:37.000Z</published>
+    <updated>2021-05-03T08:29:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然我个人很讨厌重复造轮子,但是网上的优质内容有各种问题,例如</p><ul><li>过于分散</li><li>文章有社交媒体属性</li><li>会受到审查</li><li>不知道什么时候就会消失不见<br>等千奇百怪的理由让我把优质内容储存到本地,开始写博客<br>而且即使是优质内容<br>总的来说,受众和大环境问题导致创作者创作出来的作品开始或者已经变烂</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;虽然我个人很讨厌重复造轮子,但是网上的优质内容有各种问题,例如&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;过于分散&lt;/li&gt;
+&lt;li&gt;文章有社交媒体属性&lt;/li&gt;
+&lt;li&gt;会受到审查&lt;/li&gt;
+&lt;li&gt;不知道什么时候就会消失不见&lt;br&gt;等千奇百怪的理由让我把优质内容储存到本地,开始写博客&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>异世纪畅想</title>
