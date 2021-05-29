@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-29T05:51:02.934Z</updated>
+  <updated>2021-05-29T06:32:27.795Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/05/29/test/"/>
     <id>http://example.com/2021/05/29/test/</id>
     <published>2021-05-29T05:50:15.000Z</published>
-    <updated>2021-05-29T05:51:02.934Z</updated>
+    <updated>2021-05-29T06:32:27.795Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://cdn.lbryplayer.xyz/api/v4/streams/free/%E4%BC%81%E9%B9%85%E5%85%AC%E8%B7%AF---%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/3482c2185ea22808d34e36a53ea2e7b243312061/163cc8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://cdn.lbryplayer.xyz/api/v4/streams/free/%E4%BC%81%E9%B9%85%E5%85%AC%E8%B7%AF---%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/3482c2185ea22808d34e36a53ea2e7b243312061/163cc8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://cdn.lbryplayer.xyz/api/v4/streams/free/%E8%8E%89%E5%85%B9%E4%B8%8E%E9%9D%92%E9%B8%9F---Liz-and-the-Blue-Bird---%E3%83%AA%E3%82%BA%E3%81%A8%E9%9D%92%E3%81%84%E9%B3%A5---Liz-to-Aoi-Tori/230ee4a90c035dfac7bb80c37802cbef0d195503/afffe8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     
       
