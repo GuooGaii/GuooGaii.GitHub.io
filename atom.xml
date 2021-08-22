@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-05T07:46:40.142Z</updated>
+  <updated>2021-08-22T02:12:22.409Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于最近的股票市场</title>
+    <link href="http://example.com/2021/08/22/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA/"/>
+    <id>http://example.com/2021/08/22/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA/</id>
+    <published>2021-08-22T02:09:27.000Z</published>
+    <updated>2021-08-22T02:12:22.409Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天是2021年8月22日</p><p>我是从2021年7月27日参与股票和基金交易的</p><p>不说是预言吧，如果有在看的警惕一下不久的将来可能会发生的金融危机</p><p>因为我看不管是社区还是市场交易的意愿都还是很火热</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>符号之恋</title>
