@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rongjun Chen</title>
+    <link>https://guoogaii.github.io/</link>
+    <description>Recent content on Rongjun Chen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 00:48:15 +0800</lastBuildDate>
+    <atom:link href="https://guoogaii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://guoogaii.github.io/posts/home/</link>
+      <pubDate>Wed, 31 Jul 2024 00:48:15 +0800</pubDate>
+      <guid>https://guoogaii.github.io/posts/home/</guid>
+      <description>Welcome to my website! I am a Bachelor of Science in Mathematics for Data Science, jointly educated by Brunel University London and North China University of Technology.&#xA;Contact rongjun [DOT] chen [DOT] research [AT] gmail [DOT] com&#xA;Email | CV</description>
+    </item>
+  </channel>
+</rss>
